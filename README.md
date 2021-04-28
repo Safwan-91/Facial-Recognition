@@ -3,7 +3,7 @@ This is a project done as a part of the course Mathematical Foundation for Data 
 
 Here are the key points of the project,
 
-– Used Principal Component Analysis for dimensionality reduction on a database of human faces for facial recognition.
+– Used Singular Value Decomposition for dimensionality reduction on a database of human faces for facial recognition.
 
 – Eigen faces were used for facial recognition by projecting individual image vectors onto the Eigen space.
 
